@@ -1,0 +1,1 @@
+ApiService ve RetroClient kodlarında, uygulayıcı kendi sunucu adresini girmelidir.

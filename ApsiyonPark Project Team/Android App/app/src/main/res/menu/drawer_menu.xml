@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_settings"
+        android:title="Ayarlar" />
+    <item
+        android:id="@+id/nav_building"
+        android:title="Sitem" />
+    <item
+        android:id="@+id/nav_dues"
+        android:title="Aidatlarım" />
+    <item
+        android:id="@+id/nav_gym"
+        android:title="Spor Salonu" />
+    <item
+        android:id="@+id/nav_parking"
+        android:title="Otopark" />
+    <item
+        android:id="@+id/nav_logout"
+        android:title="Çıkış" />
+</menu>

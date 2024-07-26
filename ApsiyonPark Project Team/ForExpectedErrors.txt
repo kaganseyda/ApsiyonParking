@@ -1,0 +1,20 @@
+#ApsiyonPark Projemizin mobil uygulaması halihazırda çalışmaktadır. Ancak model-sunucu-uygulama entegrasyonu sırasında 
+1-Otopark doğru dijitalleştirilmezse
+2-Flask-Uygulama bağlantısı doğru yapılmazsa
+3-Kamera ve otopark fiziksel datası doğru tutulmazsa
+4-Otopark ışıklandırması ve ROI değerleri doğru girilmezse
+5-Sunucu bilgileri doğru girilmezse
+6-Uygulama gerçek verilerle çalıştırılırken belirtilen dosyalar uygulamaya eklenmezse-değiştirilmezse
+
+Sistem muhtemelen hata verecektir. Uygulama gerek hayata uygulanacaksa bu hususlara dikkat edilmelidir.
+
+/////////////////////////////////////// 
+#The mobile application of ApsiyonPark Project is already working. However, during model-server-application integration
+1-If the parking lot is not digitalized correctly
+2-If the Flask-Application connection is not made correctly
+3-If camera and parking physical data are not kept correctly
+4-If parking lot lighting and ROI values ​​are not entered correctly
+5-If server information is not entered correctly
+6-If the specified files are not added or changed to the application while the application is running with real data
+
+The system will probably give an error. If the application is to be applied to real life, these issues should be taken into consideration.
